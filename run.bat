@@ -1,4 +1,4 @@
 @echo off
-set port=80
+mkdir files-to-merge
 node app.js
 pause
