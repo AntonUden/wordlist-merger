@@ -1,0 +1,14 @@
+{
+  "name": "wordlist-merger",
+  "version": "1.0.0",
+  "description": "used to merge all lines in ./files-to-merge to one textfile",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+  },
+  "keywords": [],
+  "author": "Zeeraa",
+  "license": "MIT"
+}
